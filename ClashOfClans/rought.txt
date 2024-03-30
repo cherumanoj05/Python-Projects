@@ -1,0 +1,6 @@
+YQ8PYQU0U
+request url: https://api.clashofclans.com/v1/players/%23<player_tag>
+
+1. Take id(without #) as input.
+2. Send request and saves response (JSON)
+2. Saves data and display it.
